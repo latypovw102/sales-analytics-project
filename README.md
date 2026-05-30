@@ -1,5 +1,4 @@
 # sales-analytics-project
-final project for OTUS academy
 
 
 # 📊 Sales Analytics Platform
